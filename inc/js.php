@@ -1,0 +1,12 @@
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.js"></script>
+<script src="assets/js/plugins.js"></script>
+<script src="assets/js/stickyfill.min.js"></script>
+<script src="assets/lib/%40fortawesome/all.min.js"></script>
+<script src="assets/js/rellax.min.js"></script><!-- Global site tag (gtag.js) - Google Analytics-->
+<script src="assets/lib/lightbox2/js/lightbox.js"></script>
+<script src="assets/lib/hover-dir/jquery.hoverdir.js"></script>
+<script src="assets/lib/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/lib/isotope-packery/packery-mode.pkgd.min.js"></script>
+<script src="assets/js/theme.js"></script>

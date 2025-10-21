@@ -1,0 +1,174 @@
+
+TODO Project : One Stop Service Agency (NuvrionWeb) (new + version + ion, modern & power)
+====================================================================================================
+
+
+Untuk CRUD (Create, Read, Update, Delete) nanti kita akan buat sistem seperti ini:
+
+Fitur	=Penjelasan
+
+Create	=Admin bisa menambahkan proyek baru (judul, deskripsi singkat, kategori, gambar, detail lengkap, tanggal, tag, dll).
+Read	=Menampilkan semua proyek di halaman “Recent Projects” dan detailnya di “Single Work”.
+Update	=Admin bisa mengedit proyek (ubah deskripsi, gambar, detail, dll).
+Delete	=Admin bisa menghapus proyek tertentu dari database.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Web & App Development
+Website (Company Profile, eCommerce, Portal)
+Mobile Apps (Android/iOS)
+Sistem informasi custom (ERP, HRIS, POS, dll.)
+
+Ide Penyediaan Layanan Satu per Satu
+
+Web Development:
+Company Profile Website
+E-commerce Website
+Portal Website
+
+Mobile Apps:
+Android App Development
+iOS App Development
+
+Sistem Informasi Custom:
+ERP System Development
+HRIS System Development
+POS System Development
+===================================================================================
+Kalau dijadikan tampilan menu atau list di website, bisa terlihat seperti:
+Company Profile Website → klik untuk detail
+E-commerce Website → klik untuk detail
+Portal Website → klik untuk detail
+Android App Development → klik untuk detail
+iOS App Development → klik untuk detail
+ERP System Development → klik untuk detail
+HRIS System Development → klik untuk detail
+POS System Development → klik untuk detail
+=======================================================================
+-IT Infrastructure & Support
+Server & Cloud setup
+Jaringan LAN/WiFi
+Maintenance hardware & software
+Backup & recovery data
+CCTV, IoT, Rakit PC
+
+-Cyber Security
+Penetration testing
+Vulnerability assessment
+Firewall & endpoint protection
+
+-Digital Marketing & Social Media
+Google Ads / Meta Ads
+SEO/SEM
+Content creation
+Social media management
+
+-Creative Media
+UI/UX design
+Graphic design (logo, banner, brosur, dll.)
+Video editing & animasi
+Fotografi produk & event
+
+==================================Extra Services=======================
+Digital Printing (kartu nama, brosur, kalender, sertifikat)
+Legal & Hukum (Notaris, pengacara, kontrak)
+Lifestyle & Lain-lain (Cleaning, Nail Art, Travel, Tiket Konser, MC)
+AI & Automation (Prompt AI, Video AI, Foto AI, QA Automation)
+======================
+udah melampaui skala “Vendor IT” biasa → lebih mirip One Stop Service Agency.
+======================
+
+skema yang tadi kita bahas:
+40–50% → Operasional (gaji tim, tools, internet, listrik, software)
+20–30% → Profit Bersih Perusahaan
+10–20% → Bonus Tim (disesuaikan dengan divisi/project)
+5–10% → Dana Cadangan/Emergency
+
+========================================
+
+Alur Kerja Keuangan (Flow Per Project)
+Request Masuk → Klien order (misalnya: Website eCommerce Rp50jt).
+Estimasi Anggaran → Tentukan biaya (gaji tim, server, domain, dll.).
+Kontrak & DP → Klien bayar DP (30–50%).
+Eksekusi Project
+-Catat semua pengeluaran (gaji, tools, transport)
+-Simpan bukti transaksi (nota/invoice vendor)
+Monitoring → Mingguan review apakah masih on-budget.
+Project Selesai → Klien bayar pelunasan.
+Distribusi Keuangan → Sesuai persentase tadi (operasional, profit, bonus, dana cadangan).
+Laporan Akhir → Profit/Loss dicatat per project & per divisi.
+
+===========================================
+
+Contoh Breakdown Keuangan (Project Rp100.000.000)
+
+Operasional (SDM, tools, listrik, internet, software, sewa) → Rp45.000.000
+Profit bersih perusahaan → Rp25.000.000
+Bonus tim (dibagi ke Project Manager, Dev, Designer, QA) → Rp15.000.000
+Dana cadangan (emergency, bug fixing, revisi tambahan) → Rp10.000.000
+Pajak/legal → Rp5.000.000
+
+===================================================
+
+-Gunakan kode project → setiap order dapat kode unik (misal: PROJ-WEB-2025-001).
+-Pisahkan rekening bank khusus bisnis dari rekening pribadi.
+-Buat laporan keuangan per divisi + gabungan supaya tahu divisi mana paling profit.
+-Tetapkan SLA (Service Level Agreement) → supaya jelas kapan biaya tambahan dikenakan (misal revisi >3x ada biaya extra).
+
+================================
+
+instagram (nuvrion.id-nuvrion1) id_pass
+            nuvrion@gmail.com
+            Paseban, Kec. Senen, Kota Jakarta Pusat, <br />
+            Daerah Khusus Ibukota Jakarta
